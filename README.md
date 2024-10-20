@@ -7,8 +7,6 @@ This demo website includes artwork from various sources, including Arknights. Al
 # Credits
 
 ## Arknights Artwork
-- **Artwork Title**: [Specify the name of the artwork if applicable]
-- **Artist**: [If known, include the artist's name]
 - **Source**: Arknights, YOSTAR (HONG KONG) LIMITED  
    *This artwork is used solely for demonstration purposes. All rights to the artwork are owned by YOSTAR (HONG KONG) LIMITED. Please refer to the official terms and conditions for inquiries regarding usage.*
 
